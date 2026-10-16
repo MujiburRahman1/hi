@@ -22,7 +22,7 @@ I am from Pakistan, where I regularly encounter Roman Urdu in everyday digital c
 
 Two characteristics make Roman Urdu interesting to evaluate:
 
-1. **Spelling variation.** Words such as *kya*, *kia*, and *kiya*, or *nahi*, *nahin*, and *nai*, may represent similar meanings despite differences in spelling.
+1. **Spelling variation.** Words such as `*kya*, *kia*, and *kiya*, or *nahi*, *nahin*, and *nai*`, may represent similar meanings despite differences in spelling.
 2. **Code-mixing.** Everyday messages often combine Urdu grammar with English words, as in *"battery sara din chalti hai"*.
 
 These patterns are common in informal communication but are not always represented well by evaluations that focus on English or standard Urdu script.
